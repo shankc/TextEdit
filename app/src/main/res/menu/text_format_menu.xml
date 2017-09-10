@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <item
+        android:id="@+id/action_bold_format"
+        android:icon="@drawable/ic_action_bold"
+        android:title="@string/action_bold"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_italic_format"
+        android:icon="@drawable/ic_action_italic"
+        android:title="@string/italic"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_underline_format"
+        android:icon="@drawable/ic_action_underline"
+        android:title="@string/underline"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_quotes_format"
+        android:icon="@drawable/ic_action_block_quotes"
+        android:title="@string/quotes"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_bullet_format"
+        android:icon="@drawable/ic_action_bullet"
+        android:title="@string/bullet"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_left_align"
+        android:icon="@drawable/ic_action_left_align"
+        android:title="@string/left_align"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_center_align"
+        android:icon="@drawable/ic_action_center_align"
+        android:title="@string/center_align"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_right_align"
+        android:icon="@drawable/ic_action_right_align"
+        android:title="@string/right_align"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>

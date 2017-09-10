@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextEdit</string>
+    <string name="action_align">align</string>
+    <string name="save">Save</string>
+    <string name="submit">Submit</string>
+    <string name="word_count">Word Count:</string>
+    <string name="start_typing">Start typing your ideas..</string>
+    <string name="italic">italic</string>
+    <string name="underline">underline</string>
+    <string name="quotes">quotes</string>
+    <string name="bullet">bullet</string>
+    <string name="left_align">Left Align</string>
+    <string name="center_align">Center Align</string>
+    <string name="right_align">Right Align</string>
+    <string name="action_bold">Bold</string>
+</resources>
